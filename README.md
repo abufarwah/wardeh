@@ -9,6 +9,7 @@ A modern flower and gift shop website built with HTML, CSS, and Bootstrap.
 - Our Services section
 - Customer Reviews
 - Newsletter subscription
+- 📱 Fully Responsive Design — works seamlessly on mobile, tablet, and desktop
 - Animated UI & smooth interactions
 
 ## Technologies Used
