@@ -30,8 +30,7 @@ This project is a perfect demonstration of translating static UI into interactiv
 ## 🌐 Live Demo
 [View Wardeh Shop Live](https://abufarwah.github.io/wardeh/)
 
-## 📸 Screenshots
-*(Feel free to add a screenshot of your website here later!)*
+
 
 ---
 *Built with ❤️ in Jordan.*
