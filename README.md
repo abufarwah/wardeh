@@ -1,4 +1,4 @@
-# 🌸 Wardeh Shop
+# 🌸 Wardeh Store
 
 A fully responsive, dynamic E-Commerce Front-End Web Application for a flower and gift shop.
 
